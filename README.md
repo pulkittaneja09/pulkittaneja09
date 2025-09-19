@@ -6,10 +6,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;MERN+Stack+Enthusiast+%E2%9A%A1;AI+%26+ML+Explorer+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%9F;Building+Amazing+Projects+%F0%9F%9A%80" />
 
-<img src="https://komarev.com/ghpvc/?username=pulkittaneja09&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/pulkittaneja09?label=FOLLOWERS&style=for-the-badge&color=blue" />
-<img src="https://img.shields.io/github/stars/pulkittaneja09?label=STARS&style=for-the-badge&color=yellow" />
-
 </div>
 
 ---
@@ -36,7 +32,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass&theme=dark" />
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,go,mongodb,postgresql,mysql,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,c,go,mongodb,postgresql,mysql,redis&theme=dark" />
 
 ### AI & ML
 <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv&theme=dark" />
@@ -61,7 +57,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=pulkittaneja09&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&border_radius=10&cache_seconds=86400" alt="GitHub Stats" />
 
 ### 🌐 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulkittaneja09&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulkittaneja09&layout=compact&theme=tokyonight&border_radius=10&count_private=true&include_all_commits=true" alt="Top Languages" />
 
 </div>
 
