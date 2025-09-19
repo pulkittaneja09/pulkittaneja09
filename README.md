@@ -29,10 +29,19 @@
 
 ---
 
-=### 📊 GitHub Stats  
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pulkittaneja09&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="stats" />
+</p>
+
+### 🔥 Streak
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=pulkittaneja09&theme=radical&hide_border=false&date_format=M%20j%5B,%20Y%5D" alt="streak" />
+</p>
+
+### 🚀 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulkittaneja09&layout=compact&theme=radical" alt="langs" />
 </p>
 
 
